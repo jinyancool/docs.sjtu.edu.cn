@@ -116,7 +116,7 @@ Filesystem kbytes quota limit grace files quota limit grace
 **A：** 收费详情请见https://hpc.sjtu.edu.cn/regulation_20181008.pdf 。
 
 ### 5.2 Q：如何查看账户余额？
-**A：** 您可以使用主账号登陆https://acct.hpc.sjtu.edu.cn/PARATERA/login.jsp 查看。
+**A：** 您可以使用主账号登陆https://acct.hpc.sjtu.edu.cn/PARATERA/login.jsp 查看。(404错误，无法访问。)
 
 ### 5.3 Q：有没有机时奖励政策？
 **A：** 目前新的收费政策正在商讨中，预计将于近期公布。在此之前已有的奖励机时仍然生效。
